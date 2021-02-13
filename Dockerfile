@@ -1,6 +1,6 @@
-FROM ubuntu:14.04
+FROM debian:stretch-slim
 
-MAINTAINER TuRzAm
+MAINTAINER aldump
 
 # Var for first config
 # Server Name
